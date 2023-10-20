@@ -1,0 +1,16 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: constrain_mass_nanograv_15
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Chris
+    family-names: Choi
+    affiliation: Carnegie Mellon University
+    email: minyeonc@andrew.cmu.edu
+repository-code: 'https://github.com/nanograv/15yr_cw_analysis'
+url: 'https://github.com/nanograv/15yr_cw_analysis'
