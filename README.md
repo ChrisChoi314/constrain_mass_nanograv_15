@@ -1,5 +1,5 @@
 # constrain_mass_nanograv_15
-## Guide to go with the paper titled ["Stochastic Gravitational Wave Background Detection through NANOGrav 15-year Data Set in the View of Massive Gravity"](https://arxiv.org/abs/2312.03932)
+## Source code for the paper ["Stochastic Gravitational Wave Background Detection through NANOGrav 15-year Data Set in the View of Massive Gravity"](https://arxiv.org/abs/2312.03932)
 
 Authors of repository: [Chris Choi](https://github.com/ChrisChoi314) from Carnegie Mellon University 
 
