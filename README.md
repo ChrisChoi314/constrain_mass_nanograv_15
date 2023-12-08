@@ -3,4 +3,6 @@
 
 Authors of repository: [Chris Choi](https://github.com/ChrisChoi314) from Carnegie Mellon University 
 
-The jupyter notebook in this repository shows how all the figures in our paper were generated. Feel free to email mychoi314@gmail.com if there are any questions about how to reproduce any result or general questions about the paper.
+Authors of the paper: Chris Choi, Jacob Magallanes, Murman Gurgenidze, and Tina Kahniashvili.
+
+The jupyter notebook in this repository shows how all the figures in our paper were generated. Feel free to email minyeonc@andrew.cmu.edu if there are any questions about reproducing the results or generally about the paper.
